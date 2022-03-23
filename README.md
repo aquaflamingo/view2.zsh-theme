@@ -3,7 +3,7 @@
 ## Usage
 ```bash
 git clone
-cp ./view2.zsh-theme/view2.zsh-theme ~/.oh-my-zsh/view2.zsh-theme
+cp ./view2.zsh-theme/view2.zsh-theme ~/.oh-my-zsh/themes/view2.zsh-theme
 ```
 
 ```
